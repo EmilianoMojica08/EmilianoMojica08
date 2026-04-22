@@ -1,14 +1,18 @@
-# Hi there! 👋 I'm Emiliano Mojica
-> 🔐 Cybersecurity Enthusiast | 🤖 Robotics & AI Lover | 👁️ Computer Vision Advocate
+## 🧠 About Me
 
-### About Me
-I'm a passionate Mechatronics Engineer with a strong focus on cybersecurity and artificial intelligence. My work involves developing secure, scalable solutions that blend cutting-edge technology with practical applications. Whether it's encrypting sensitive data, creating intelligent systems, or pushing the boundaries of robotics, I am always excited to explore new frontiers in tech.
+I'm a Mechatronics Engineer turning **LLMs and automation** into real-world tools.
+I build AI-driven systems — whether that's an agent that automates Google Dork searches,
+a computer vision pipeline, or a secure backend that leverages the **OpenAI API** to
+scale decision-making.
 
-### 🔧 What I Do
-**Cybersecurity:** Building robust security protocols and tools to protect against cyber threats.
+> I don't just implement AI — I engineer it to solve specific problems.
 
-**AI & Machine Learning**:  Implementing AI models for intelligent automation, leveraging the OpenAI API to accelerate processes and enhance efficiency.
+---
 
-**Robotics**: Designing and programming industrial robots, particularly ABB robots, and applying industrial robotics across multiple sectors.
+### 🔍 What I'm focused on
 
-**Computer Vision**: Applying advanced techniques to enable machines to see and interpret the world.
+- 🤖 **LLM Integration** — Building pipelines and agents powered by large language models
+- ⚙️ **Intelligent Automation** — Designing systems that reduce manual work through AI
+- 👁️ **Computer Vision** — Enabling machines to perceive and interpret the real world
+- 🔐 **AI + Cybersecurity** — Securing and leveraging AI for threat analysis and tooling
+- 🦾 **Robotics** — Programming industrial robots (ABB) with smart automation logic
